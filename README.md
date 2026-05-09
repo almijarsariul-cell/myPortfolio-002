@@ -1,2 +1,2 @@
-# myPortfolio_002
+# myPortfolio-002
 MyPortfolio :)
